@@ -27,18 +27,7 @@ General coordinated view to show trends of gun violence in USA, like Top cities 
 ![UI4](trends.png)
 now we click CA(California), User even can filter those gun violence to find out the information like top cities(all city of California) that people got killed only for that clicked state(California). Result be like:
 ![UI5](trends2.png)
-## Installation
 
-Download or clone this repository:
-
-```bash
-git clone https://github.com/454400098/CRIME_RATE_WEB_APP.git
-```
-The dependencies for the project can be installed using
-
-```
-$ pip install -r requirements.txt
-```
 
 
 ## License
@@ -48,11 +37,3 @@ MIT License. See [`LICENSE.md`](LICENSE.md).
 
 
 
-# To get preprocessed dataset
-
-Please Contact me via  email haodong.zheng@rutgers.edu
-
-
-## Contact
-
-haodong.zheng@rutgers.edu
